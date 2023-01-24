@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "id": "Manu12",
+      "name": "Manu S",
+      "email": "manu@mail.com",
+      "phoneNo": "0987654",
+      "password": "manu1234",
+      "cpassword": "manu1234",
+      "address": "Trissur"
+    },
+    {
+      "username": "Ezarina",
+      "name": "Zarina Mathew",
+      "email": "zarina@mail.com",
+      "phoneNo": "12345678",
+      "password": "akshay",
+      "cpassword": "akshay",
+      "address": "Palla",
+      "id": "Ezarina"
+    },
+    {
+      "username": "Vinu12",
+      "name": "Vinu M",
+      "email": "vinu@mail.com",
+      "phoneNo": "23456789",
+      "password": "akshay",
+      "cpassword": "akshay",
+      "address": "Trissur",
+      "id": "Vinu12"
+    }
+  ],
+  "cart": [
+    {
+      "id": 62,
+      "title": "Waterproof Leather Brand Watch",
+      "description": "Watch Crown With Environmental IPS Bronze Electroplating; Display system of 12 hours",
+      "price": 46,
+      "discountPercentage": 3.15,
+      "rating": 4.05,
+      "stock": 95,
+      "brand": "SKMEI 9117",
+      "category": "mens-watches",
+      "thumbnail": "https://i.dummyjson.com/data/products/62/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/62/1.jpg",
+        "https://i.dummyjson.com/data/products/62/2.jpg"
+      ]
+    }
+  ]
+}
